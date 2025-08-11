@@ -12,4 +12,4 @@ Each project is in its own folder. Compile and run using:
 
 ```bash
 Visual Studio 
-./output
+
