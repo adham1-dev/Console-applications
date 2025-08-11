@@ -11,5 +11,5 @@ A collection of simple C++ console applications for practice, focusing on:
 Each project is in its own folder. Compile and run using:
 
 ```bash
-g++ -o output source.cpp
+Visual Studio 
 ./output
